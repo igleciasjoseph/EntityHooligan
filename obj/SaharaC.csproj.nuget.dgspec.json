@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iglec\\Desktop\\CSharp\\SaharaC\\SaharaC.csproj": {}
+    "C:\\Users\\iglec\\desktop\\CSharp\\SaharaC\\SaharaC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iglec\\Desktop\\CSharp\\SaharaC\\SaharaC.csproj": {
+    "C:\\Users\\iglec\\desktop\\CSharp\\SaharaC\\SaharaC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iglec\\Desktop\\CSharp\\SaharaC\\SaharaC.csproj",
+        "projectUniqueName": "C:\\Users\\iglec\\desktop\\CSharp\\SaharaC\\SaharaC.csproj",
         "projectName": "SaharaC",
-        "projectPath": "C:\\Users\\iglec\\Desktop\\CSharp\\SaharaC\\SaharaC.csproj",
+        "projectPath": "C:\\Users\\iglec\\desktop\\CSharp\\SaharaC\\SaharaC.csproj",
         "packagesPath": "C:\\Users\\iglec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iglec\\Desktop\\CSharp\\SaharaC\\obj\\",
+        "outputPath": "C:\\Users\\iglec\\desktop\\CSharp\\SaharaC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
